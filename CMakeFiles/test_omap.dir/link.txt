@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g -O3  -rdynamic CMakeFiles/test_omap.dir/test_omap.cpp.o CMakeFiles/test_omap.dir/src/AES.cpp.o CMakeFiles/test_omap.dir/src/Bid.cpp.o CMakeFiles/test_omap.dir/src/RAMStore.cpp.o CMakeFiles/test_omap.dir/src/ORAM.cpp.o CMakeFiles/test_omap.dir/src/AVLTree.cpp.o CMakeFiles/test_omap.dir/src/OMAP.cpp.o  -o test_omap  -lcrypto -lpthread 

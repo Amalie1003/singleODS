@@ -1,0 +1,3 @@
+/home/yy/singleODS/CMakeFiles/rebuild_cache.dir
+/home/yy/singleODS/CMakeFiles/edit_cache.dir
+/home/yy/singleODS/CMakeFiles/test_omap.dir
